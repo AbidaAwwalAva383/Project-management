@@ -1,0 +1,13 @@
+B001|The Silent Patient|Alex Michaelides|1
+B002|1984|George Orwell|0
+B003|Atomic Habits|James Clear|0
+B004|The Hobbit|J.R.R. Tolkien|1
+B005|Clean Code|Robert C. Martin|1
+B006|Sapiens|Yuval Noah Harari|0
+B007|Dune|Frank Herbert|0
+B008|The Alchemist|Paulo Coelho|1
+B009|Deep Work|Cal Newport|0
+B010|Harry Potter and the Sorcerer's Stone|J.K. Rowling|0
+B011|To Kill a Mockingbird|Harper Lee|1
+B012|The Pragmatic Programmer|Andrew Hunt|0
+B001|Introduction to Algorithms|Cormen|1
