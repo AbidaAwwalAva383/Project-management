@@ -113,7 +113,7 @@ string Member::serialize() const {
 Librarian::Librarian(const string& name, int age, const string& uname,
                      const string& pwd, const string& staffId, bool isHashed)
     : Person(name, age), UserAccount(uname, pwd, "Librarian", isHashed),
-      staffId(staffId), totalFinesCollected(0.0) {}
+      staffId(staffId), totalFinesCollected(0.0) {}//multiple inheritance
 
 void Librarian::logAction(const string& action) const {
     cout << "[LOG] Librarian " << staffId << ": " << action << "\n";
